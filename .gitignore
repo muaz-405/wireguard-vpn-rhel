@@ -1,0 +1,4 @@
+*.key
+*private*
+wg0.conf
+!configs/*.conf
